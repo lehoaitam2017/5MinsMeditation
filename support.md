@@ -4,7 +4,7 @@
 
 If you need help with 5MinsMeditation, have a bug to report, or want to suggest an improvement, contact:
 
-- Email: support@5minsmeditation.app
+- Email: datamuse.ai@gmail.com
 
 ## What To Include
 
